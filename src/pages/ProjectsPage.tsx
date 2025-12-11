@@ -33,7 +33,7 @@ const ProjectsPage = () => {
       description: "A professional and interactive portfolio website built using React and TypeScript. It serves as a central space to showcase my profile, including a summary, detailed about me section, experience, certifications, personal projects, activities, and recommendations. The portfolio features a clean UI, responsive design, and smooth navigation to give recruiters and peers a comprehensive view of my journey.",
       techStack: ["React", "TypeScript", "Tailwind CSS", "Component-Based Design"],
       imageUrl: "/assets/portfolio.jpg", // Replace with your actual screenshot
-      githubUrl: "", // Update when repo is live
+      githubUrl: "https://github.com/ADAMSAMEERAHAMEDSHAIK/AdamPortfolio.git", // Update when repo is live
       liveUrl: "https://adam-portfolio-pied.vercel.app/" // Replace with your actual deployed URL
     }
         
