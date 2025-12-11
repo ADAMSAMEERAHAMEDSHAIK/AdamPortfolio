@@ -34,7 +34,7 @@ const ProjectsPage = () => {
       techStack: ["React", "TypeScript", "Tailwind CSS", "Component-Based Design"],
       imageUrl: "/assets/portfolio.jpg", // Replace with your actual screenshot
       githubUrl: "", // Update when repo is live
-      liveUrl: "" // Replace with your actual deployed URL
+      liveUrl: "https://adam-portfolio-pied.vercel.app/" // Replace with your actual deployed URL
     }
         
   ];
